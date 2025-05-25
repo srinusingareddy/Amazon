@@ -12,6 +12,7 @@
       border-top-left-radius: 45px;
       border-top-right-radius: 50px;
       border-radius: solid 3px;
+      /* position: fixed; */
 
        
       
@@ -140,7 +141,8 @@
      background-color: lightslategray;
      border-radius: 50px ;
      border: solid 3px;
-   
+   position: fixed;
+   margin-left: 400px;
     
   }
   
